@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Batalha de Digitrons/Batalha de Digitrons.iml" filepath="$PROJECT_DIR$/Batalha de Digitrons/Batalha de Digitrons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dama/Dama.iml" filepath="$PROJECT_DIR$/Dama/Dama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios-Java.iml" filepath="$PROJECT_DIR$/Desafios-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exibindo Números Pares/Exibindo Números Pares.iml" filepath="$PROJECT_DIR$/Exibindo Números Pares/Exibindo Números Pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fases da Lua/Fases da Lua.iml" filepath="$PROJECT_DIR$/Fases da Lua/Fases da Lua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lanche/Lanche.iml" filepath="$PROJECT_DIR$/Lanche/Lanche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplica-Simples/Multiplica-Simples.iml" filepath="$PROJECT_DIR$/Multiplica-Simples/Multiplica-Simples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O Filme/O Filme.iml" filepath="$PROJECT_DIR$/O Filme/O Filme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quantidade de Números Positivos/Quantidade de Números Positivos.iml" filepath="$PROJECT_DIR$/Quantidade de Números Positivos/Quantidade de Números Positivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reservatório de Mel/Reservatório de Mel.iml" filepath="$PROJECT_DIR$/Reservatório de Mel/Reservatório de Mel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resto 2/Resto 2.iml" filepath="$PROJECT_DIR$/Resto 2/Resto 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Senha Fixa/Senha Fixa.iml" filepath="$PROJECT_DIR$/Senha Fixa/Senha Fixa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visita na Feira/Visita na Feira.iml" filepath="$PROJECT_DIR$/Visita na Feira/Visita na Feira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xadrez/Xadrez.iml" filepath="$PROJECT_DIR$/Xadrez/Xadrez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Área do Círculo/Área do Círculo.iml" filepath="$PROJECT_DIR$/Área do Círculo/Área do Círculo.iml" />
+    </modules>
+  </component>
+</project>
